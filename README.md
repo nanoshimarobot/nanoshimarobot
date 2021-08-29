@@ -1,5 +1,5 @@
-### Hi there 👋
-[![nanoshimarobot's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanoshimarobot&theme=vue-dark&show_icons=true)](https://github.com/nanoshimarobot/github-readme-stats)
+### Prayer
+[![nanoshimarobot's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanoshimarobot&theme=city_lights&show_icons=true)](https://github.com/nanoshimarobot/github-readme-stats)
 
 <!--
 **nanoshimarobot/nanoshimarobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
